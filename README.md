@@ -102,5 +102,5 @@ Run news-classification-using-rnns-and-lstms.ipynb.
 
 ## References / Credits
 
-Dataset: AG News Classification Dataset (or specify your dataset)
+Dataset: [Labelled Newscatcher Dataset](https://www.newscatcherapi.com/blog-posts/topic-labeled-news-dataset)
 Concept Reference: Understanding LSTM Networks (Chris Olah's Blog)
